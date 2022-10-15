@@ -1,4 +1,4 @@
-# Music-Genre-Classification
+# Music Genre Classification
 
 A deep learning project that uses audio files to automatically categorise various musical genres. 
 These audio files will be categorised based on their low-level frequency and time domain characteristics.
